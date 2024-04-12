@@ -1,3 +1,4 @@
+#Sivaparvathi Yanikapati
 # Create a vector with the given numbers
 numbers <- c(7, 12, 5)
 
